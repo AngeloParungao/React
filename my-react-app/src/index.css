@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 15vh;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+   display: flex;
+   gap: 3rem;
+}
